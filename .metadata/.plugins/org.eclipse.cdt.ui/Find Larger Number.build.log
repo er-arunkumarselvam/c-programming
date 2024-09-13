@@ -1,0 +1,7 @@
+12:23:49 **** Incremental Build of configuration Debug for project Find Larger Number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Find Larger Number.o" "..\\src\\Find Larger Number.c" 
+gcc -o "Find Larger Number.exe" "src\\Find Larger Number.o" 
+
+12:23:50 Build Finished. 0 errors, 0 warnings. (took 608ms)
+

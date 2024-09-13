@@ -1,0 +1,7 @@
+12:28:26 **** Incremental Build of configuration Debug for project Print 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Print 1-100.o" "..\\src\\Print 1-100.c" 
+gcc -o "Print 1-100.exe" "src\\Print 1-100.o" 
+
+12:28:26 Build Finished. 0 errors, 0 warnings. (took 501ms)
+

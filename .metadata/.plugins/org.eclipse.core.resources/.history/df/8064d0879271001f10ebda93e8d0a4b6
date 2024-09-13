@@ -1,0 +1,20 @@
+/*
+ ============================================================================
+ Name        : Pre.c
+ Author      : Arunkumar
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Pre & Post Increment/Decrement
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int a=1;
+	int b=++a;
+	printf("Pre Increment: a=%d and b=%d",a,b);
+	printf("Post Increment: a=%d and b=%d",a,b=a++);
+	return EXIT_SUCCESS;
+}

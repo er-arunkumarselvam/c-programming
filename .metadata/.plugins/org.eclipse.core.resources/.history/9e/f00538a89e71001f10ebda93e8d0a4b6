@@ -1,0 +1,25 @@
+/*
+ ============================================================================
+ Name        : Sum.c
+ Author      : Arunkumar
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Sum of n number given user input
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int number,result;
+	setbuf(stdout,NULL);
+	printf("Enter a any number: ");
+	scanf("%d",&number);
+	for(int i=0;i<=number;i++){
+		result = i+1;
+	}
+
+	printf("The Sum of %d number is %d",number,result);
+	return EXIT_SUCCESS;
+}

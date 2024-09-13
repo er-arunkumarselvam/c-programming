@@ -1,0 +1,7 @@
+13:50:22 **** Incremental Build of configuration Debug for project perform division ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\perform division.o" "..\\src\\perform division.c" 
+gcc -o "perform division.exe" "src\\perform division.o" 
+
+13:50:23 Build Finished. 0 errors, 0 warnings. (took 512ms)
+
