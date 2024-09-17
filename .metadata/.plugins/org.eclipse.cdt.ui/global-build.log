@@ -1,6 +1,9 @@
-Info: Nothing to build for Sum of prime number
-Info: Nothing to build for Sum of prime number
-Info: Nothing to build for Sum of prime number
-Info: Nothing to build for Sum of prime number
-Info: Nothing to build for Sum of prime number
-Info: Nothing to build for Sum of prime number
+20:38:32 **** Rebuild of configuration Debug for project Sort Array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sort Array.o" "..\\src\\Sort Array.c" 
+gcc -o "Sort Array.exe" "src\\Sort Array.o" 
+Info: Nothing to build for Sort Array
+20:39:34 **** Incremental Build of configuration Debug for project Sort Array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sort Array.o" "..\\src\\Sort Array.c" 
+gcc -o "Sort Array.exe" "src\\Sort Array.o" 
